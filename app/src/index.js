@@ -1,8 +1,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-import JavaScriptFramework from "./App0";
-import App from "./App"
+import JavaScriptFramework from "./App";
 
 
 // const number = 10;
@@ -21,6 +20,5 @@ const element = (
     </>
 )
 
-
-
 ReactDOM.render(element, document.getElementById("root"));
+
