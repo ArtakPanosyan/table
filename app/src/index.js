@@ -11,7 +11,7 @@ import App from "./App"
 // const element = <div className={myElementClassName} style={}> {text} </div>
 //const element = React.createElement("div", {className: "my-text"}, "Hello React!!!" )
 
-
+console.log("change")
 
 const element = (
     <>
